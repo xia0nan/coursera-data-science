@@ -1,0 +1,10 @@
+q()
+getwe()
+getwd()
+ls
+getwd()
+dir()
+getwd()
+ls()
+install.packages("KernSmooth")
+library(KernSmooth)
