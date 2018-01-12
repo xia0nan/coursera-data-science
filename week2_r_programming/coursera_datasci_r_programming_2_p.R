@@ -8,7 +8,7 @@ print(R.version.string)
 # clear environment
 rm(list=ls())
 
-setwd("/Users/nanxiao/Developer/babylon/R/")
+setwd("/Users/nanxiao/Developer/babylon/datasciencecoursera/")
 
 current_dir <- getwd()
 current_dir
