@@ -1,3 +1,6 @@
 # ignore data folder in week2
 week2_r_programming/specdata/
 .Rproj.user
+.DS_Store
+.Rhistory
+.Rapp.history
