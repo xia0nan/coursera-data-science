@@ -1,6 +1,8 @@
 # Data Science Specialization - by Johns Hopkins University
 [Coursera Specialization Link](https://www.coursera.org/specialization/jhudatascience)
+
 Author: Xiao Nan
+
 In progress: Now starting course 2 R programming from 11th Jan 2018
 
 ## Courses
