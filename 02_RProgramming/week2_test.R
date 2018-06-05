@@ -13,7 +13,7 @@ setwd("/Users/nanxiao/Developer/babylon/datasciencecoursera/")
 course_dir <- getwd()
 course_dir
 
-week_dir <- file.path(course_dir, "week2_r_programming")
+week_dir <- file.path(course_dir, "02_RProgramming")
 week_dir
 
 setwd(week_dir)
