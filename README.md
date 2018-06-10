@@ -1,6 +1,18 @@
 # Data Science Specialization - by Johns Hopkins University
 [Coursera Specialization Link](https://www.coursera.org/specialization/jhudatascience)
 
+This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.
+
+Taught by:
+[Roger D. Peng, PhD](http://www.biostat.jhsph.edu/~rpeng/)
+Associate Professor, Biostatistics
+
+[Brian Caffo, PhD](https://sites.google.com/view/bcaffo/home)
+Professor, Biostatistics
+
+[Jeff Leek, PhD](http://jtleek.com/)
+Associate Professor, Biostatistics
+
 Author: Xiao Nan
 
 In progress: Now starting course 3 Getting and Cleaning Data from 11th June 2018
